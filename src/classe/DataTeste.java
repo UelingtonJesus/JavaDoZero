@@ -8,6 +8,8 @@ public class DataTeste {
         System.out.println(d1.obterDataFormatada());
         System.out.println(d2.obterDataFormatada());
 
+        d1.imprimirDataFormatada();
+
 
     }
 }
